@@ -21,7 +21,7 @@ Launch your react-360 app
 If you find any issues or face any problem installing, create a new new github issue on github or reach me on @TheWizardJS
 
 
-### Some awesome videos tp start with
+### Some awesome videos to start with
 
 - [Shay Keinan's "React360: 2D to 3D"](https://www.youtube.com/watch?v=QKpHG294lf4)
 - [Howard Jian's "React VR Demo - Getting Started with React VR"](https://www.youtube.com/watch?v=PnYhS4Ygs3s)
