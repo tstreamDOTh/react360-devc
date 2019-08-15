@@ -18,7 +18,7 @@ Launch your react-360 app
 
 `npm run start`
 
-If you find any issues or face any problem installing, create a new new github issue on github or reach me on @TheWizardJS
+If you find any issues or face any problem installing, create a new new github issue on github or reach me on twitter https://twitter.com/TheWizardJS
 
 
 ### Some awesome videos to start with
